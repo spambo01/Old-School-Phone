@@ -1,0 +1,16 @@
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\PhoneTest.dll
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\PhoneTest.pdb
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\OldSchoolPhone.exe
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\OldSchoolPhone.pdb
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\OldSchoolPhone.exe.config
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\obj\Debug\PhoneTest.csprojResolveAssemblyReference.cache
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\obj\Debug\PhoneTest.csproj.CoreCompileInputs.cache
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\obj\Debug\PhoneTest.dll
+C:\code\Old-School-Phone\OldSchoolPhone\PhoneTest\obj\Debug\PhoneTest.pdb
