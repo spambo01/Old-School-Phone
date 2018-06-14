@@ -17,11 +17,6 @@ namespace OldSchoolPhone
             InitializeComponent();
         }
 
-        private void lblResult_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnConvert_Click(object sender, EventArgs e)
         {
             lblErrorMsg.Text = "";
@@ -29,31 +24,18 @@ namespace OldSchoolPhone
             lblTime.Text = "";
             //assumption: convert to lowercase by default
             string englishSentence = txtSentence.Text.ToLower();
-            if (string.IsNullOrEmpty(englishSentence))
-            {
-                ValidateUserInput();
-            }
-            else
-            {
-                lblNumberedText.Text=   new BusinessLogic().ConvertToPhoneKeys(englishSentence, this);
-            }
+            lblNumberedText.Text = new Conversion().ConvertToPhoneKeys(englishSentence, this);
         }
 
-        public void PrintRequiredTime(double minTime)
+        internal void PrintRequiredTime(double minTime)
         {
             lblTime.Text = minTime.ToString() + " seconds";
         }
-        
 
-
-
-        internal void ValidateUserInput()
+        internal void LogError(string errorText)
         {
             //assumptions: latin alphabet and .#* characters
-            lblErrorMsg.Text = "Please add some text using the latin characters a-z . # *";
+            lblErrorMsg.Text = errorText;
         }
-
-
-
     }
 }

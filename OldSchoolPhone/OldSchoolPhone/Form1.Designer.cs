@@ -72,7 +72,6 @@
             this.lblResult.Size = new System.Drawing.Size(681, 29);
             this.lblResult.TabIndex = 3;
             this.lblResult.Text = "Your sentence converted in an old phone number sequence is:";
-            this.lblResult.Click += new System.EventHandler(this.lblResult_Click);
             // 
             // lblNumberedText
             // 
